@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[msf:home|Door43 (msf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-msf|d43-msf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-msf/archive/master.zip|d43-msf.zip]]
+
+**Recent Changes**
+{{changes>ns = msf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/msf|Ethnologue data]]
+
